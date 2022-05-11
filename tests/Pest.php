@@ -1,0 +1,5 @@
+<?php
+
+use Westreels\WestreelsMain\Tests\TestCase;
+
+uses(TestCase::class)->in(__DIR__);
